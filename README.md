@@ -7,4 +7,4 @@ Basta clonar o projeto e executar o comando NPM install para a instalação das 
 - Para executar a parte "Publisher" é necessário executar o script send.js. Ele pode ser executado através do comando node send.js 
 - Para executar a parte "Subscribe" é necessário executar o script receive.js ou receive2.js. Ele pode ser executado através do comando node receive.js OU node receive2.js
 
-- receive.js irá escutar todas as publicações feitas no canal "jogos", enquanto receive2.js irá escutar todas as publicações feitas em "jogos" e "atleticomg" 
+- receive.js irá escutar todas as publicações feitas no canal "Jogos", enquanto receive2.js irá escutar todas as publicações feitas em "Jogos" e "atleticomg" 
